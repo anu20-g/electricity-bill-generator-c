@@ -1,0 +1,1 @@
+# Electricity Bill Generator - Team 1\n\nCalculate electricity charges using unit-based billing slabs.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
